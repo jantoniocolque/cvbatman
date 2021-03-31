@@ -1,0 +1,37 @@
+body{
+    font-family: Calibri, Helvetica, sans-serif;
+}
+main{
+    margin-left: 320px;
+    margin-right: 320px;
+}
+
+.item-detail{
+    font-weight: bold;
+    font-style:italic;
+}
+
+.background-header{
+    background-color:#dddddd;
+    text-align: center;
+}
+.title-header{
+    background-color: #bfbfbf;
+    color: darkblue;
+    line-height: 1.5;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 0.5em;
+}
+
+.title-section{
+    background-color: #bfbfbf;
+    color:brown;
+}
+
+footer{
+    background-color: darkblue;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    line-height:2;
+}
